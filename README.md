@@ -1,2 +1,2 @@
 # Outfit-Nights
-Gestión de tienda de ropa como proyecto final
+Gestión de tienda de ropa como proyecto final de IFES
